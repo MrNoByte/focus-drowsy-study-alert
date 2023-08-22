@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# img dataset (since it will be too large)
-data/
-
 
 # Distribution / packaging
 .Python
